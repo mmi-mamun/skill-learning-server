@@ -1,0 +1,62 @@
+[
+    {
+        "id": "CRS01",
+        "title": "Android App Development",
+        "img": "https://i.ibb.co/kKDVC5v/android-studio.png",
+        "description": "",
+        "prerequisite": "Not Requird",
+        "level": "Beginner",
+        "duration": "1 Year",
+        "fee": 699
+    },
+    {
+        "id": "CRS02",
+        "title": "Python with Django",
+        "img": "https://i.ibb.co/J7h07CD/django.png",
+        "description": "",
+        "prerequisite": "Basic Python",
+        "level": "Beginner",
+        "duration": "8 Months",
+        "fee": 899
+    },
+    {
+        "id": "CRS03",
+        "title": "JavaScript A - Z",
+        "img": "https://i.ibb.co/cNCfXBM/js.jpg",
+        "description": "",
+        "prerequisite": "Not Requird",
+        "level": "Beginner",
+        "duration": "4 Months",
+        "fee": 399
+    },
+    {
+        "id": "CRS04",
+        "title": "MERN Stack Development",
+        "img": "https://i.ibb.co/6m3MQKN/mern-stack.png",
+        "description": "",
+        "prerequisite": "HTML & CSS",
+        "level": "Beginner",
+        "duration": "1 Year",
+        "fee": 1199
+    },
+    {
+        "id": "CRS05",
+        "title": "PHP with Laravel",
+        "img": "https://i.ibb.co/GnTVpr6/php-laravel.png",
+        "description": "",
+        "prerequisite": "Basic PHP",
+        "level": "Beginner",
+        "duration": "8 Months",
+        "fee": 799
+    },
+    {
+        "id": "CRS06",
+        "title": "Web Development Basic",
+        "img": "https://i.ibb.co/R0PcFTX/web-dev.jpg",
+        "description": "",
+        "prerequisite": "Not Requird",
+        "level": "Beginner",
+        "duration": "6 Months",
+        "fee": 499
+    }
+]

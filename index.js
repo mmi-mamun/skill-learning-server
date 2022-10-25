@@ -10,3 +10,8 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`Private local server listening on port ${port}`)
 })
+
+const courses = require('./data/courses.json')
+app.get('/courses', (req, res) => {
+    res.send(courses);
+})
