@@ -18,3 +18,15 @@ const courses = require('./data/courses.json')
 app.get('/courses', (req, res) => {
     res.send(courses);
 })
+
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    if (id === 'CRS07') {
+        res.send(courses);
+    }
+    else {
+        const selectedCourse = courses.find(course => id === course.id);
+        res.send(selectedCourse);
+    }
+    // console.log(req.params.id)
+})
