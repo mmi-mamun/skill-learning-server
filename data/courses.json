@@ -7,7 +7,8 @@
         "prerequisite": "Not Requird",
         "level": "Advanced Beginner",
         "duration": "1 Year",
-        "fee": 699
+        "enrollment": "1st january, 2023",
+        "fee": 1299
     },
     {
         "id": "CRS02",
@@ -17,7 +18,8 @@
         "prerequisite": "Basic Python",
         "level": "Senior developer",
         "duration": "8 Months",
-        "fee": 899
+        "enrollment": "2nd February, 2023",
+        "fee": 1499
     },
     {
         "id": "CRS03",
@@ -27,7 +29,8 @@
         "prerequisite": "Not Requird",
         "level": "Beginner",
         "duration": "4 Months",
-        "fee": 399
+        "enrollment": "9th November, 2023",
+        "fee": 1099
     },
     {
         "id": "CRS04",
@@ -37,6 +40,7 @@
         "prerequisite": "HTML & CSS",
         "level": "Junior developer",
         "duration": "1 Year",
+        "enrollment": "5th january, 2023",
         "fee": 1199
     },
     {
@@ -47,6 +51,7 @@
         "prerequisite": "Basic PHP",
         "level": "Mid-level developer",
         "duration": "8 Months",
+        "enrollment": "16th December, 2022",
         "fee": 799
     },
     {
@@ -57,6 +62,7 @@
         "prerequisite": "Not Requird",
         "level": "Beginner",
         "duration": "6 Months",
-        "fee": 499
+        "enrollment": "3rd March, 2023",
+        "fee": 999
     }
 ]
